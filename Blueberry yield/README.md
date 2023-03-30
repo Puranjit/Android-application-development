@@ -1,4 +1,6 @@
-I am currently working on developing this project as a part of my research work at AUburn University.
+<b>Blueberry yield prediction android application</b>
+
+* I am currently working on developing this project as a part of my research work at Auburn University.
 
 The main objective of this project is to perform deep learning based object-detection task of detecting ripe blueberries in the fields and predicting blueberry yield in the fields.
 
