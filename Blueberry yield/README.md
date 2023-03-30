@@ -6,14 +6,5 @@ The main objective of this project is to perform deep learning based object-dete
 2. The DL model would be deployed on an android application to perform the prediction tasks
 3. The android application would provide 4 different user-friendly applications
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+* uiuii
+ *uiu
