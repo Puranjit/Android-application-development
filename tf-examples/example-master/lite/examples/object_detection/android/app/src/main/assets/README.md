@@ -1,1 +1,1 @@
-
+## This folder contains the .tflite models already trained n Coco dataset to generate the bounding box predicitons when the android app is run on a device. Also, this folder contains the custom object detection model trained on the custom dataset, this model could generate results in predicting blueberries in their different growth stages namely - "Green" (unripe), "Half" (Neither ripe nor unripe), and "Ripe". 
