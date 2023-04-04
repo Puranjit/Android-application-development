@@ -1,0 +1,1 @@
+This folder contain files provided by official tensorflow library develop an android application that generates real-time object-detection predictions using .tflite models already trained on Coco dataset [Link](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android) 
