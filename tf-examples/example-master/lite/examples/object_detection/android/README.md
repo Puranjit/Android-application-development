@@ -1,7 +1,7 @@
 This folder contains files provided by official tensorflow library to build a real-time object detection android app that could use multiple .tflite models already trained on Coco dataset to generate predictions [Link](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android).<br>
 I have integrated my custom object detection model trained to detect blueberries in different growth stages in this app as well
 
-Some examples of the predictions done by the android application are attached:
+Some examples of the predictions done by the android application are attached: (You can click on these images to view them in a seperate window)
 ![Screenshot_20230519-124819](https://github.com/Puranjit/Android-application-development/assets/36369377/62be624c-4395-44fb-8eee-44327e666f80)
 ![Screenshot_20230519-124909](https://github.com/Puranjit/Android-application-development/assets/36369377/f69d0134-b320-4ca3-956c-53442bd5c866)
 ![Screenshot_20230519-125606](https://github.com/Puranjit/Android-application-development/assets/36369377/062efe5b-080e-48e3-935d-e45d36834fd3)
